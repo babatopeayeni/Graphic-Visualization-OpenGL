@@ -5,7 +5,7 @@ I begin by defining requirements, structuring the architecture, and optimizing f
 
 ## What new design skills has my work on this project helped me to craft?  
 I improved in **3D modeling, texture mapping, and lighting techniques**. I learned to apply a **golden metallic texture to the padlock** and a **fuzzy green texture to the tennis ball**, making them visually accurate while keeping polygon count low. Additionally, I structured my code modularly for better organization and reusability.  
-<imghttps://imgur.com/a/LSb9FYS/>
+<img src="https://imgur.com/a/LSb9FYS"/>
 
 ## What design process did I follow for my project work?  
 I followed an **iterative approach**:  
