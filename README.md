@@ -1,7 +1,7 @@
 # Project Reflection – OpenGL 3D Scene  
 
 ## How do I approach designing software?  
-I begin by defining requirements, structuring the architecture, and optimizing for performance. For this project, I designed a 3D scene featuring a padlock and a tennis ball placed on a table. My focus was on balancing realism with computational efficiency while ensuring smooth user interaction.  
+I began by defining requirements, structuring the architecture, and optimizing for performance. For this project, I designed a 3D scene featuring a padlock and a tennis ball placed on a table. My focus was on balancing realism with computational efficiency while ensuring smooth user interaction.  
 
 ## What new design skills has my work on this project helped me to craft?  
 I improved in 3D modeling, texture mapping, and lighting techniques. I learned to apply a golden metallic texture to the padlock and a fuzzy green texture to the tennis ball, making them visually accurate while keeping polygon count low. Additionally, I structured my code modularly for better organization and reusability. 
